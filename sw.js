@@ -1,6 +1,6 @@
 var GHPATH = '/slope-game';
 var APP_PREFIX = 'sg_';
-var VERSION = 'version_03';
+var VERSION = 'version_04';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/khajsdf`,
