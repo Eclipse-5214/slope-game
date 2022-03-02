@@ -1,18 +1,21 @@
-var GHPATH = '/oregan';
-var APP_PREFIX = 'ot_';
-var VERSION = 'version_01';
+var GHPATH = '/slope-game';
+var APP_PREFIX = 'sg_';
+var VERSION = 'version_02';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
-  `${GHPATH}/js-dos.css`,
-  `${GHPATH}/img/icon.png`,
-  `${GHPATH}/js-dos.js.map`,
-  `${GHPATH}/origan.jsdos`,
-  `${GHPATH}/js-dos.js`,
-  `${GHPATH}/emulators-ui-loader.png`,
-  `${GHPATH}/wdosbox.wasm`,
-  `${GHPATH}/wdosbox.js.symbols`,
-  `${GHPATH}/wdosbox.js`
+  `${GHPATH}/TemplateData/UnityProgress.js`,
+  `${GHPATH}/TemplateData/progressEmpty.Dark.png`,
+  `${GHPATH}/TemplateData/progressFull.Dark.png`,
+  `${GHPATH}/TemplateData/progressLogo.Dark.png`,
+  `${GHPATH}/TemplateData/style.css`,
+  `${GHPATH}/TemplateData/unityloader41.js`,
+  `${GHPATH}/Build/slope.json`,
+  `${GHPATH}/Build/slope_data.unityweb`,
+  `${GHPATH}/Build/slope_framework.unityweb`,
+  `${GHPATH}/Build/slope_memory.unityweb`,
+  `${GHPATH}/Build/slope_wasmcode.unityweb`,
+  `${GHPATH}/Build/slope_wasmframework.unityweb`
 ]
 
 var CACHE_NAME = APP_PREFIX + VERSION
