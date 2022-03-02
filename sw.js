@@ -3,6 +3,7 @@ var APP_PREFIX = 'sg_';
 var VERSION = 'version_03';
 var URLS = [    
   `${GHPATH}/`,
+  `${GHPATH}/khajsdf`,
   `${GHPATH}/index.html`,
   `${GHPATH}/img/icon.png`,
   `${GHPATH}/TemplateData/UnityProgress.js`,
