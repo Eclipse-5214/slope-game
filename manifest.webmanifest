@@ -1,15 +1,15 @@
 {
-  "name": "Oregon Trail",
-  "short_name": "OT",
-  "description": "fun dos game",
-  "scope": "/oregan/",
-  "start_url": "/oregan/",
+  "name": "Slope game by Y8",
+  "short_name": "SG",
+  "description": "fun webGL game",
+  "scope": "/slope-game/",
+  "start_url": "/slope-game/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/oregan/img/icon.png",
+        "src": "/slope-game/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
