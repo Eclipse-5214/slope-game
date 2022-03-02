@@ -1,9 +1,10 @@
 var GHPATH = '/slope-game';
 var APP_PREFIX = 'sg_';
-var VERSION = 'version_02';
+var VERSION = 'version_03';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
+  `${GHPATH}/img/icon.png`,
   `${GHPATH}/TemplateData/UnityProgress.js`,
   `${GHPATH}/TemplateData/progressEmpty.Dark.png`,
   `${GHPATH}/TemplateData/progressFull.Dark.png`,
